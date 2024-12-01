@@ -19,7 +19,7 @@ body {
 }
 
 .custom-navbar {
-  background-color: #d5ec04 !important; 
+  background-color: #0408ec !important; 
   padding: 15px 30px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -32,7 +32,7 @@ body {
 }
 
 .custom-navbar .navbar-nav .nav-link {
-  color: #E7E8D1 !important;
+  color: ##d0ff00 !important;
   font-size: 18px;
   font-weight: 500;
   padding: 10px 20px;
