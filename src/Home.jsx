@@ -5,12 +5,7 @@ function Home() {
   return (
     <div>
       <h1 className='home-h1'>NAGA COLLEGE FOUNDATION</h1>
-      <h2</h2>
-      <p className='home-p'>
-       </p>
-
-      <h2 className='home-h2'>:</h2>
-      <p className='home-p'></p>
+      
 
 
      <div>
