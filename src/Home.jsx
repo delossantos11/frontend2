@@ -9,8 +9,7 @@ function Home() {
       <p className='home-p'>
         </p>
 
-      <h2 className=</h2>
-      <p className=></p>
+    
 
 
      <div>
