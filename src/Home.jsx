@@ -7,10 +7,10 @@ function Home() {
       <h1 className='home-h1'>NAGA COLLEGE FOUNDATION</h1>
       <h2 className='home-h2'>Mission:</h2>
       <p className='home-p'>
-        Welcome to my personal website, where I aim to showcase my creativity and innovative ideas.</p>
+        </p>
 
       <h2 className='home-h2'>Vision:</h2>
-      <p className='home-p'>Welcome to my personal website, where I aim to showcase my creativity and innovative ideas.</p>
+      <p className='home-p'></p>
 
 
      <div>
