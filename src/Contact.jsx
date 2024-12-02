@@ -5,15 +5,15 @@ import './Contact.css'
 function Contacts() {
   return (
     <div>
-      <h1 className='contact-h1'>Personal Information</h1>
+      <h1 className='contact-h1'>Contact Information</h1>
       
       <Row className="mt-4">
         <Col md={4}>
-          <Card style={{ width: '18rem' }}>
+          <Card style={{ width: '15rem' }}>
             <Card.Body>
               <Card.Title>Facebook:</Card.Title>
               <Card.Text>
-              https://web.facebook.com/aronbd.delossantos
+              Aron Ranel Delos Santos
               </Card.Text>
             </Card.Body>
           </Card>
@@ -24,7 +24,7 @@ function Contacts() {
             <Card.Body>
               <Card.Title>Email:</Card.Title>
               <Card.Text>
-              https://accounts.google.com/SignOutOptions?hl=en&continue=https://classroom.google.com/ 
+                arodelossantos@gbox.ncf.edu.ph
               </Card.Text>
             </Card.Body>
           </Card>
@@ -37,6 +37,17 @@ function Contacts() {
               <Card.Text>
               09674172111 
               Globe,go99
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col md={4}>
+          <Card style={{ width: '18rem' }}>
+            <Card.Body>
+              <Card.Title>Git Hub</Card.Title>
+              <Card.Text>
+               delossantos11
+               https://github.com/account
               </Card.Text>
             </Card.Body>
           </Card>
