@@ -14,7 +14,7 @@
     overflow: hidden; 
     transition: transform 0.3s ease, box-shadow 0.3s ease; 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
-    background-color: #90AFC5;
+    background-color: #90c59d;
 }
 
 .card:hover {
@@ -30,14 +30,14 @@
 
 .card-subtitle {
     font-size: 1rem; 
-    color: #888; 
+    color: #000000; 
     margin-bottom: 10px;
 }
 
 .card-text {
-    font-size: 1rem;
+    font-size: 1.1rem;
     line-height: 1.5;
-    color: #333;
+    color: #000000;
 }
 
 .card-link {
@@ -55,10 +55,11 @@
 .hobbies-h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 36px;
-    color: #330000;
+    color: #000000;
     text-align: center;
     margin-top: 20px; 
     text-transform: uppercase;
     letter-spacing: 1px;
   }
   
+
